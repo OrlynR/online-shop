@@ -1,0 +1,31 @@
+.btn.btn-add{
+    background-color: rgb(9, 186, 109);
+    color: #ffffff;
+    border: rgb(9, 186, 109);
+}
+.btn.btn-add:hover{
+    background-color: rgb(15, 135, 83);
+    border: rgb(15, 135, 83);
+    color: #ffffff;
+}
+.card{
+    border: solid 1px #D5DEED81;
+    box-shadow: 0px 3px 6px #D5DEED81;
+    border-radius: 20px !important;
+}
+.card-title{
+    font-size: 20px;
+    font-family: 'RobotoRegular';
+    color: #0C2B45;
+}
+
+.card-text{
+    font-size: 14px;
+    font-family: 'Robotoligth';
+    color:#818E94 ;
+}
+.card-text.card-black{
+    font-size: 16px;
+    font-family: 'Robotoligth';
+    color:#212121;
+}
